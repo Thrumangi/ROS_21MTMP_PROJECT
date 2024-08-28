@@ -1,0 +1,28 @@
+I would like to express my gratitude to the YouTube content creators,
+whose valuable tutorials and resources greatly helped me in building this project. 
+Their expertise and dedication to sharing knowledge have been instrumental in my learning process.
+
+##robomechtrix ##Simulate_Your_Robot_Arm_In_ROS_Noetic
+
+Here I have used:
+
+>> Ubuntu 20.04 (Focal Fossa)
+>> ROS Noetic Ninjemys
+>> Gazebo 11
+>> MoveIt 1
+
+Command to install the requisites:
+
+1) sudo apt update
+   sudo apt install ros-noetic-desktop-full
+
+2) sudo apt update
+   sudo apt install gazebo11 ros-noetic-gazebo-ros-pkgs ros-noetic-gazebo-ros-control
+
+3) sudo apt update
+   sudo apt install ros-noetic-moveit
+
+4) sudo apt update
+   sudo apt install ros-noetic-rviz
+
+5) sudo apt install ros-noetic-ros-control ros-noetic-ros-controllers
